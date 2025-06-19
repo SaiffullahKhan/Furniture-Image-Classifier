@@ -13,7 +13,7 @@ A web application for classifying images of furniture into four categories: **Ch
 
 ### Prerequisites
 
-- Python 3.1
+- Python 3.1 | https://www.python.org/downloads/release/python-3116/
 - pip
 
 ### Installation
