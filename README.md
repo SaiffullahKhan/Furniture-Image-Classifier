@@ -54,7 +54,3 @@ python app.py
 ## Model Training
 - Use the Jupyter notebooks in the `notebooks/` directory to train or fine-tune models.
 - Save trained models as `.h5` files in the `models/` directory.
-
-## Web Interface
-- The interface is styled for clarity and ease of use.
-- Users can preview the uploaded image and see the prediction result instantly.
